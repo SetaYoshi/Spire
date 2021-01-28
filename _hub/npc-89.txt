@@ -1,0 +1,7 @@
+gfxwidth=48
+gfxheight=96
+gfxoffsety=0
+frames=1
+width=48
+speed=0
+scripts=directory
