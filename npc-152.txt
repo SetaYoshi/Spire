@@ -1,7 +1,7 @@
 gfxwidth=64
 gfxheight=96
 frames=24
-framespeed=32
+framespeed=8
 width=64
 height=96
 scripts=elevatordoor
