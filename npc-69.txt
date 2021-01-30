@@ -1,0 +1,7 @@
+gfxwidth=20
+gfxheight=96
+gfxsplitheight=96
+width=20
+height=96
+noblockcollision=1
+scripts=crane door

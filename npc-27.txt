@@ -1,0 +1,11 @@
+gfxwidth=48
+gfxheight=48
+gfxoffsety=8
+gfxsplitheight=768
+frames=8
+framespeed=6
+framestyle=1
+speed=0
+noblockcollision=1
+nonpccollision=1
+scripts=bubble

@@ -1,0 +1,16 @@
+gfxwidth=32
+gfxheight=32
+gfxoffsety=0
+gfxsplitheight=32
+width=32
+height=32
+playerblock=0
+playerblocktop=0
+npcblock=0
+npcblock1=0
+npcblocktop=0
+immortal=1
+nohurt=1
+health=3
+jumpdmg=1
+scripts=Lever
