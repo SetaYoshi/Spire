@@ -1,0 +1,8 @@
+gfxwidth=64
+gfxheight=16
+gfxsplitheight=16
+width=64
+height=16
+playerblocktop=0
+npcblock1=0
+nohurt=1
